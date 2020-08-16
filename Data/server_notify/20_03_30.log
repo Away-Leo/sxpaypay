@@ -1,0 +1,28 @@
+【2020-03-30 13:55:15】
+订单号：20200330135436995110
+通知地址：http://karl-leo.imwork.net/common/test.json
+通知报文：memberid=200399771&orderid=E20200330055435654062&transaction_id=20200330135436995110&amount=0.0100&datetime=20200330135515&returncode=00&sign=2B3A7872645C32EF90E57DC2462C75A7&attach=1234|456
+HTTP状态：
+返回：
+
+【2020-03-30 14:02:25】
+订单号：20200330135436995110
+通知地址：http://karl-leo.imwork.net/common/test.json
+通知报文：memberid=200399771&orderid=E20200330055435654062&transaction_id=20200330135436995110&amount=0.0100&datetime=20200330140225&returncode=00&sign=641227FF307B6B55B1E5CF4220206504&attach=1234|456
+HTTP状态：
+返回：OK
+
+【2020-03-30 15:14:53】
+订单号：20200330151410505556
+通知地址：http://karl-leo.imwork.net/common/test.json
+通知报文：memberid=200399771&orderid=E20200330071408925499&transaction_id=20200330151410505556&amount=50.0100&datetime=20200330151451&returncode=00&sign=5A0C03F7B8A7051C79206CD3FB88F711&attach=1234|456
+HTTP状态：
+返回：
+
+【2020-03-30 22:13:28】
+订单号：20200330221247102481
+通知地址：https://www.699179.xyz/Pay_CsT1Zfb_notifyurlzfb.html
+通知报文：memberid=200359087&orderid=202003302212461019813662&transaction_id=20200330221247102481&amount=1.0000&datetime=20200330221327&returncode=00&sign=8DB87CD0F35F8041272F3A4900A21AD2&attach=1234|456
+HTTP状态：
+返回：ok
+

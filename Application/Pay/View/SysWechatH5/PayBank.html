@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>正在跳转支付</title>
+</head>
+<body>
+<input type="hidden" id="jumpUrl" value="<{$jump_url}>"/>
+<input type="hidden" id="oid" value="<{$oid}>"/>
+<input type="hidden" id="jtype" value="<{$jtype}>"/>
+<div id="content"></div>
+<a href="weixin://dl/business/?ticket=t2f2290ccae5d968c73adc95fd4ffdd00" style="width: 100px;height: 50px">点击进入微信支付</a>
+</body>
+<!--<script type="application/javascript">-->
+<!--    var jtype=document.getElementById("jumpUrl").value;-->
+<!--    if(jtype!=null||jtype!=""){-->
+<!--        var content=document.getElementById("content");-->
+<!--        content.innerHTML=document.getElementById("jumpUrl").value;-->
+<!--    }else{-->
+<!--        window.location.href=document.getElementById("jumpUrl").value;-->
+<!--    }-->
+<!--</script>-->
+</html>

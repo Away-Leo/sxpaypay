@@ -1,0 +1,7 @@
+【2020-06-17 17:05:14】
+订单号：20200617170444991004
+通知地址：http://pay.yanwujing.cn/callback.php
+通知报文：memberid=200399771&orderid=F1592384684560&transaction_id=20200617170444991004&amount=400.0000&datetime=20200617170514&returncode=00&sign=6FB003A7C3666811E3C8ED2474E2DB19&attach=200399771
+HTTP状态：
+返回：ok
+

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>正在跳转支付</title>
+</head>
+<body>
+<input type="hidden" id="jumpUrl" value="<{$jump_url}>"/>
+<input type="hidden" id="oid" value="<{$oid}>"/>
+
+</body>
+<script type="application/javascript">
+    //if(localStorage.getItem("oid")!=document.getElementById("oid").value){
+       // localStorage.setItem("oid",document.getElementById("oid").value);
+        window.location.href=document.getElementById("jumpUrl").value;
+    //}
+</script>
+</html>

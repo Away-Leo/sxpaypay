@@ -1,0 +1,22 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+<form action="<?php echo($jump_url) ?>" id="payform" method="post">
+    <?php
+			foreach($oriurl as $k=>$v)
+    {
+    if($k!='__hash__'){
+    echo '<input type="hidden" name="'.$k.'" value="'.$v.'">';
+    }
+
+    }
+    ?>
+</form>
+<script>
+    document.getElementById('payform').submit();
+</script>
+</body>
+</html>

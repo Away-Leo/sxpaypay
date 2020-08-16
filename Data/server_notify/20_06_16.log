@@ -1,0 +1,14 @@
+【2020-06-16 17:53:23】
+订单号：20200616175140991011
+通知地址：http://pay.yanwujing.cn/callback.php
+通知报文：memberid=200399771&orderid=B1592301100929&transaction_id=20200616175140991011&amount=300.0000&datetime=20200616175323&returncode=00&sign=9C9600E0F6C9DB0EAE437440C07B0070&attach=200399771
+HTTP状态：
+返回：ok
+
+【2020-06-16 18:35:10】
+订单号：20200616183447555755
+通知地址：http://pay.yanwujing.cn/callback.php
+通知报文：memberid=200399771&orderid=I1592303687600&transaction_id=20200616183447555755&amount=700.0000&datetime=20200616183510&returncode=00&sign=DBE22E4CFFB24ED3319B0F067A0C3BF9&attach=200399771
+HTTP状态：
+返回：ok
+

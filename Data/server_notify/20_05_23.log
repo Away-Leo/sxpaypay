@@ -1,0 +1,28 @@
+【2020-05-23 00:48:50】
+订单号：20200523004452525251
+通知地址：http://karl-leo.imwork.net/common/test.json
+通知报文：memberid=200399771&orderid=E20200522164451783388&transaction_id=20200523004452525251&amount=300.0000&datetime=20200523004847&returncode=00&sign=F6BA7D9329A37C0207DECE1C32BFFDD9&attach=1234|456
+HTTP状态：
+返回：<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor="white">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.12.1</center>
+</body>
+</html>
+
+
+【2020-05-23 00:51:54】
+订单号：20200523004925535598
+通知地址：http://karl-leo.imwork.net/common/test.json
+通知报文：memberid=200399771&orderid=E20200522164924644084&transaction_id=20200523004925535598&amount=300.0000&datetime=20200523005153&returncode=00&sign=6F80EBD4371DE5D1C75CA8B107D7C6FE&attach=1234|456
+HTTP状态：
+返回：<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor="white">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx/1.12.1</center>
+</body>
+</html>
+
+

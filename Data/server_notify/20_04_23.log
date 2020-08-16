@@ -1,0 +1,14 @@
+【2020-04-23 17:45:22】
+订单号：20200423174358101100
+通知地址：http://karl-leo.imwork.net/common/test.json
+通知报文：memberid=200399771&orderid=E20200423094357733790&transaction_id=20200423174358101100&amount=1.0900&datetime=20200423174517&returncode=00&sign=295C43765FB0C4AB46A2E4CA846A1D98&attach=1234|456
+HTTP状态：
+返回：
+
+【2020-04-23 18:03:44】
+订单号：20200423180301539956
+通知地址：http://karl-leo.imwork.net/common/test.json
+通知报文：memberid=200399771&orderid=E20200423100259795591&transaction_id=20200423180301539956&amount=0.0900&datetime=20200423180340&returncode=00&sign=E12C2E480B482A93B36EFD09538B3F4F&attach=1234|456
+HTTP状态：
+返回：
+

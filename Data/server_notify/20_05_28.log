@@ -1,0 +1,21 @@
+【2020-05-28 14:51:01】
+订单号：20200528142729499810
+通知地址：http://app.easy-stock.pw/index/pay/xun_notify.html
+通知报文：memberid=200542507&orderid=117621590647248991997&transaction_id=20200528142729499810&amount=204.0000&datetime=20200528145058&returncode=00&sign=3B804CAA663E04DD0C5F5589B90F41D4&attach=11762_莫生
+HTTP状态：
+返回：OK
+
+【2020-05-28 20:43:55】
+订单号：20200528202548994998
+通知地址：http://app.easy-stock.pw/index/pay/xun_notify.html
+通知报文：memberid=200542507&orderid=117601590668747426291&transaction_id=20200528202548994998&amount=204.0000&datetime=20200528204353&returncode=00&sign=083A30107D3D8DBFB7D2CCEB82248824&attach=11760_韩露露
+HTTP状态：
+返回：OK
+
+【2020-05-28 20:49:49】
+订单号：20200528204754974854
+通知地址：http://app.easy-stock.pw/index/pay/xun_notify.html
+通知报文：memberid=200542507&orderid=117651590670073894479&transaction_id=20200528204754974854&amount=306.0000&datetime=20200528204946&returncode=00&sign=5315FEFE9CF8D6F0FE02C279791D5C5B&attach=11765_王秀玉
+HTTP状态：
+返回：OK
+
