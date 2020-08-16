@@ -1,0 +1,1226 @@
+[ 2019-05-26T13:02:05+08:00 ] 120.230.81.62 /admin_Withdrawal_checkNotice.html?_=1558846116069
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000762s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000751s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000803s ]
+ERR: 模板不存在:./Application/Home/View/view4/Index/sls.html
+
+[ 2019-05-26T13:02:05+08:00 ] 113.65.156.115 /admin_Withdrawal_checkNotice.html?_=1558845203747
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000405s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000827s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000754s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000809s ]
+ERR: 模板不存在:./Application/Home/View/view4/Index/sls.html
+
+[ 2019-05-26T13:41:35+08:00 ] 125.70.204.135 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.004104s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004487s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000762s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000819s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.084471s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.084536s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001012s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000568s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001636s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000533s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000575s ]
+
+[ 2019-05-26T13:41:36+08:00 ] 125.70.204.135 /Public/theme/view4/fonts/001c2a3c2156433db429add067f0cc81.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000655s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000872s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000913s ]
+ERR: 模板不存在:./Application/Home/View/view4/Index/sls.html
+
+[ 2019-05-26T13:41:43+08:00 ] 125.70.204.135 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+
+[ 2019-05-26T14:27:44+08:00 ] 203.208.60.57 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+
+[ 2019-05-26T15:27:59+08:00 ] 113.13.237.169 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000098s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000522s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000834s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001420s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.002492s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.002530s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010524s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010571s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000448s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000584s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000632s ]
+
+[ 2019-05-26T15:27:59+08:00 ] 113.13.237.169 /Public/theme/view4/fonts/001c2a3c2156433db429add067f0cc81.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000713s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000797s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000834s ]
+ERR: 模板不存在:./Application/Home/View/view4/Index/sls.html
+
+[ 2019-05-26T15:28:04+08:00 ] 113.13.237.169 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+
+[ 2019-05-26T16:16:13+08:00 ] 222.244.119.56 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000613s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002003s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002684s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.001673s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.001715s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.077165s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.077260s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.088229s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.088281s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000502s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000899s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000546s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000576s ]
+
+[ 2019-05-26T16:16:13+08:00 ] 222.244.119.56 /Public/theme/view4/fonts/001c2a3c2156433db429add067f0cc81.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000689s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000692s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000727s ]
+ERR: 模板不存在:./Application/Home/View/view4/Index/sls.html
+
+[ 2019-05-26T16:16:20+08:00 ] 222.244.119.56 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+
+[ 2019-05-26T16:16:29+08:00 ] 222.244.119.56 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000639s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000657s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000707s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009149s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009185s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000117s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000274s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000545s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000575s ]
+
+[ 2019-05-26T16:16:30+08:00 ] 222.244.119.56 /Public/theme/view4/fonts/001c2a3c2156433db429add067f0cc81.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000751s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000707s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000750s ]
+ERR: 模板不存在:./Application/Home/View/view4/Index/sls.html
+
+[ 2019-05-26T16:16:35+08:00 ] 222.244.119.56 /Home_Index_products.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000630s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000752s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000785s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006967s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000108s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000252s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000284s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000311s ]
+
+[ 2019-05-26T16:16:35+08:00 ] 222.244.119.56 /Public/theme/view4/fonts/001c2a3c2156433db429add067f0cc81.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000820s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000780s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000822s ]
+ERR: 模板不存在:./Application/Home/View/view4/Index/sls.html
+
+[ 2019-05-26T17:01:49+08:00 ] 113.65.156.115 /Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000306s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000691s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000703s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000747s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000081s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003677s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003709s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000131s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000212s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000352s ]
+
+[ 2019-05-26T17:01:49+08:00 ] 113.65.156.115 /Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000691s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000740s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000783s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000088s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003683s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003721s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000103s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000196s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000330s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000358s ]
+
+[ 2019-05-26T17:02:35+08:00 ] 211.97.130.69 /Public/Front/iconfont/iconfont.eot?t=1536224492995
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000302s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000655s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000657s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000699s ]
+ERR: 模板不存在:./Application/Home/View/view4/Index/sls.html
+
+[ 2019-05-26T17:15:44+08:00 ] 171.8.216.46 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+
+[ 2019-05-26T17:15:44+08:00 ] 171.8.216.46 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000319s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002837s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003230s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000764s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000815s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008569s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008608s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000430s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000770s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000496s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000525s ]
+
+[ 2019-05-26T17:15:45+08:00 ] 171.8.216.46 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+
+[ 2019-05-26T17:15:45+08:00 ] 171.8.216.46 /Public/theme/view4/fonts/001c2a3c2156433db429add067f0cc81.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000322s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000672s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000759s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000804s ]
+ERR: 模板不存在:./Application/Home/View/view4/Index/sls.html
+
+[ 2019-05-26T17:16:05+08:00 ] 171.8.216.46 /Home_Index_products.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000290s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000729s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000742s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000783s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000088s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006484s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006535s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000131s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000253s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000427s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000327s ]
+
+[ 2019-05-26T17:16:06+08:00 ] 171.8.216.46 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+
+[ 2019-05-26T17:16:06+08:00 ] 171.8.216.46 /Public/theme/view4/fonts/001c2a3c2156433db429add067f0cc81.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000384s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000845s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000665s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000700s ]
+ERR: 模板不存在:./Application/Home/View/view4/Index/sls.html
+
+[ 2019-05-26T17:16:26+08:00 ] 113.65.156.115 /Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000640s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000675s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000075s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003151s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003194s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000101s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000175s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000293s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000319s ]
+
+[ 2019-05-26T17:16:26+08:00 ] 113.65.156.115 /Login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000627s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000640s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000673s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000088s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003345s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003375s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000100s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000173s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000328s ]
+
+[ 2019-05-26T18:08:33+08:00 ] 112.47.219.65 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+
+[ 2019-05-26T18:08:49+08:00 ] 112.47.219.65 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000776s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000756s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000794s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007976s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008022s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000121s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000254s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000304s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000333s ]
+
+[ 2019-05-26T18:08:49+08:00 ] 112.47.219.65 /Public/theme/view4/fonts/001c2a3c2156433db429add067f0cc81.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000292s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000667s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000714s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000749s ]
+ERR: 模板不存在:./Application/Home/View/view4/Index/sls.html
+
+[ 2019-05-26T18:09:30+08:00 ] 120.230.81.62 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000300s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000661s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000690s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000724s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008450s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008492s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000130s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000373s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000338s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000375s ]
+
+[ 2019-05-26T18:09:32+08:00 ] 120.230.81.62 /Public/theme/view4/fonts/001c2a3c2156433db429add067f0cc81.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000686s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000787s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000821s ]
+ERR: 模板不存在:./Application/Home/View/view4/Index/sls.html
+
+[ 2019-05-26T18:10:26+08:00 ] 120.230.81.62 /Home_Index_userLogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000654s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000668s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000701s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000721s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000762s ]
+NOTIC: [8] Undefined variable: siteurl /www/wwwroot/www.zhifupay.com/Runtime/Cache/Home/4f8b91a79d48d43fb5e63bc50ba14126.php 第 15 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006366s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006399s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000254s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000408s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000708s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000446s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000474s ]
+
+[ 2019-05-26T18:10:26+08:00 ] 120.230.81.62 /Public/theme/view4/fonts/001c2a3c2156433db429add067f0cc81.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000703s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000657s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000691s ]
+ERR: 模板不存在:./Application/Home/View/view4/Index/sls.html
+
+[ 2019-05-26T18:10:37+08:00 ] 120.230.81.62 /Home_Index_products.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000661s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000839s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000876s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000087s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006811s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006859s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000253s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000427s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000327s ]
+
+[ 2019-05-26T18:10:37+08:00 ] 120.230.81.62 /Public/theme/view4/fonts/001c2a3c2156433db429add067f0cc81.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000324s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000725s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000700s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000735s ]
+ERR: 模板不存在:./Application/Home/View/view4/Index/sls.html
+
+[ 2019-05-26T18:12:11+08:00 ] 120.230.81.62 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+
+[ 2019-05-26T18:12:12+08:00 ] 120.230.81.62 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000744s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000716s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000759s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007854s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007893s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000325s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000497s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000309s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000338s ]
+
+[ 2019-05-26T18:12:13+08:00 ] 120.230.81.62 /Public/theme/view4/fonts/001c2a3c2156433db429add067f0cc81.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000652s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000736s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000770s ]
+ERR: 模板不存在:./Application/Home/View/view4/Index/sls.html
+
+[ 2019-05-26T18:12:17+08:00 ] 120.230.81.62 /Home_Index_document.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000658s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000738s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000782s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010520s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010555s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000116s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000370s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000529s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000317s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000360s ]
+
+[ 2019-05-26T18:12:18+08:00 ] 120.230.81.62 /Public/theme/view4/fonts/001c2a3c2156433db429add067f0cc81.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000743s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000672s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000706s ]
+ERR: 模板不存在:./Application/Home/View/view4/Index/sls.html
+
+[ 2019-05-26T18:20:36+08:00 ] 120.230.81.62 /Home_Index_sdk.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000709s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000699s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000735s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008756s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008819s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000308s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000384s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000752s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000499s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000528s ]
+
+[ 2019-05-26T18:20:37+08:00 ] 120.230.81.62 /Public/theme/view4/fonts/001c2a3c2156433db429add067f0cc81.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000312s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000735s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000686s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000721s ]
+ERR: 模板不存在:./Application/Home/View/view4/Index/sls.html
+
+[ 2019-05-26T18:21:53+08:00 ] 120.230.81.62 /Home_Index_products.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000749s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000698s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000732s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006570s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006612s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000131s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000247s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000421s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000380s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000409s ]
+
+[ 2019-05-26T18:21:53+08:00 ] 120.230.81.62 /Public/theme/view4/fonts/001c2a3c2156433db429add067f0cc81.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000466s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000958s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000783s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000819s ]
+ERR: 模板不存在:./Application/Home/View/view4/Index/sls.html
+
+[ 2019-05-26T18:22:29+08:00 ] 120.230.81.62 /Home_Index_register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000663s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000743s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000776s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+NOTIC: [8] Undefined variable: siteurl /www/wwwroot/www.zhifupay.com/Runtime/Cache/Home/19a7811954ece19bec853cd6599626d6.php 第 15 行.
+NOTIC: [8] Undefined variable: siteurl /www/wwwroot/www.zhifupay.com/Runtime/Cache/Home/19a7811954ece19bec853cd6599626d6.php 第 283 行.
+NOTIC: [8] Undefined variable: siteurl /www/wwwroot/www.zhifupay.com/Runtime/Cache/Home/19a7811954ece19bec853cd6599626d6.php 第 292 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007284s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007315s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000117s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000319s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000481s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000376s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000405s ]
+
+[ 2019-05-26T18:22:30+08:00 ] 120.230.81.62 /Public/theme/view4/fonts/001c2a3c2156433db429add067f0cc81.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000642s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000644s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000684s ]
+ERR: 模板不存在:./Application/Home/View/view4/Index/sls.html
+
+[ 2019-05-26T18:22:34+08:00 ] 120.230.81.62 /Home_Index_userLogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000736s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000848s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000883s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+NOTIC: [8] Undefined variable: siteurl /www/wwwroot/www.zhifupay.com/Runtime/Cache/Home/4f8b91a79d48d43fb5e63bc50ba14126.php 第 15 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005352s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005383s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000144s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000256s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000454s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000312s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000342s ]
+
+[ 2019-05-26T18:22:35+08:00 ] 120.230.81.62 /Public/theme/view4/fonts/001c2a3c2156433db429add067f0cc81.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000678s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000723s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000756s ]
+ERR: 模板不存在:./Application/Home/View/view4/Index/sls.html
+
+[ 2019-05-26T18:25:41+08:00 ] 120.230.81.62 /Home_Index_document.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000718s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000795s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000844s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000122s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011597s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011635s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000400s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000572s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000353s ]
+
+[ 2019-05-26T18:25:41+08:00 ] 120.230.81.62 /Public/theme/view4/fonts/001c2a3c2156433db429add067f0cc81.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001041s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.001079s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.001131s ]
+ERR: 模板不存在:./Application/Home/View/view4/Index/sls.html
+
+[ 2019-05-26T18:29:34+08:00 ] 120.230.81.62 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+
+[ 2019-05-26T19:42:56+08:00 ] 119.39.168.47 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000525s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000927s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001513s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.003368s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.003433s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000144s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010083s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010139s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000779s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001126s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000690s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000721s ]
+
+[ 2019-05-26T19:42:56+08:00 ] 119.39.168.47 /Public/theme/view4/fonts/001c2a3c2156433db429add067f0cc81.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000535s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001136s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.001177s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.001231s ]
+ERR: 模板不存在:./Application/Home/View/view4/Index/sls.html
+
+[ 2019-05-26T19:43:04+08:00 ] 119.39.168.47 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+
+[ 2019-05-26T19:43:10+08:00 ] 119.39.168.47 /Home_Index_register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000731s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000700s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000736s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+NOTIC: [8] Undefined variable: siteurl /www/wwwroot/www.zhifupay.com/Runtime/Cache/Home/19a7811954ece19bec853cd6599626d6.php 第 15 行.
+NOTIC: [8] Undefined variable: siteurl /www/wwwroot/www.zhifupay.com/Runtime/Cache/Home/19a7811954ece19bec853cd6599626d6.php 第 283 行.
+NOTIC: [8] Undefined variable: siteurl /www/wwwroot/www.zhifupay.com/Runtime/Cache/Home/19a7811954ece19bec853cd6599626d6.php 第 292 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005716s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005751s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000109s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000235s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000310s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000340s ]
+
+[ 2019-05-26T19:43:10+08:00 ] 119.39.168.47 /Public/theme/view4/fonts/001c2a3c2156433db429add067f0cc81.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000731s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000960s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000995s ]
+ERR: 模板不存在:./Application/Home/View/view4/Index/sls.html
+
+[ 2019-05-26T19:43:53+08:00 ] 119.39.168.47 /Home_Index_userLogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000654s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000698s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000732s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000081s ]
+NOTIC: [8] Undefined variable: siteurl /www/wwwroot/www.zhifupay.com/Runtime/Cache/Home/4f8b91a79d48d43fb5e63bc50ba14126.php 第 15 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005371s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005412s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000110s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000231s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000379s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000320s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000349s ]
+
+[ 2019-05-26T19:43:53+08:00 ] 119.39.168.47 /Public/theme/view4/fonts/001c2a3c2156433db429add067f0cc81.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000682s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000892s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000927s ]
+ERR: 模板不存在:./Application/Home/View/view4/Index/sls.html
+
+[ 2019-05-26T19:44:10+08:00 ] 101.89.239.232 /Home_Index_register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000673s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000697s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000731s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Undefined variable: siteurl /www/wwwroot/www.zhifupay.com/Runtime/Cache/Home/19a7811954ece19bec853cd6599626d6.php 第 15 行.
+NOTIC: [8] Undefined variable: siteurl /www/wwwroot/www.zhifupay.com/Runtime/Cache/Home/19a7811954ece19bec853cd6599626d6.php 第 283 行.
+NOTIC: [8] Undefined variable: siteurl /www/wwwroot/www.zhifupay.com/Runtime/Cache/Home/19a7811954ece19bec853cd6599626d6.php 第 292 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005492s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005521s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000101s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000254s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000341s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000377s ]
+
+[ 2019-05-26T19:44:53+08:00 ] 61.151.207.186 /Home_Index_userLogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000719s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000721s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000756s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+NOTIC: [8] Undefined variable: siteurl /www/wwwroot/www.zhifupay.com/Runtime/Cache/Home/4f8b91a79d48d43fb5e63bc50ba14126.php 第 15 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004963s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004999s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000109s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000266s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000323s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000351s ]
+
+[ 2019-05-26T19:46:31+08:00 ] 119.39.168.47 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000625s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000665s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000699s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000088s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007830s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007864s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000171s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000253s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000486s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000287s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000315s ]
+
+[ 2019-05-26T19:46:31+08:00 ] 119.39.168.47 /Public/theme/view4/fonts/001c2a3c2156433db429add067f0cc81.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000301s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000653s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000854s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000887s ]
+ERR: 模板不存在:./Application/Home/View/view4/Index/sls.html
+
+[ 2019-05-26T20:56:55+08:00 ] 36.104.15.54 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000511s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.063322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.063947s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.003167s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.003227s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009753s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000437s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000738s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000462s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000492s ]
+
+[ 2019-05-26T20:56:56+08:00 ] 36.104.15.54 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000701s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000690s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000725s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007914s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000117s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000247s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000405s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000328s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000371s ]
+
+[ 2019-05-26T20:56:58+08:00 ] 36.104.15.54 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+
+[ 2019-05-26T23:24:04+08:00 ] 106.15.201.111 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000492s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000803s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001352s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.002511s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.002585s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000122s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009919s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009964s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000475s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000807s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000525s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000554s ]
+
+[ 2019-05-26T23:26:02+08:00 ] 180.159.154.160 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+
+[ 2019-05-26T23:26:02+08:00 ] 180.159.154.160 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001722s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.001003s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.001039s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000130s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010264s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010307s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000134s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000371s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000549s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000792s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000850s ]
+
+[ 2019-05-26T23:26:02+08:00 ] 180.159.154.160 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+
+[ 2019-05-26T23:26:02+08:00 ] 180.159.154.160 /Public/theme/view4/fonts/001c2a3c2156433db429add067f0cc81.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000698s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000770s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000805s ]
+ERR: 模板不存在:./Application/Home/View/view4/Index/sls.html
+
+[ 2019-05-26T23:26:18+08:00 ] 180.159.154.160 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000109s ]
+

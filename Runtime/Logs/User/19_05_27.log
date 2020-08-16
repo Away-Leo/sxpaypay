@@ -1,0 +1,483 @@
+[ 2019-05-27T21:59:45+08:00 ] 10.168.1.132 /Agent_Login_checklogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000606s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000576s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000605s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004215s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004254s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000131s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000211s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000592s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000621s ]
+
+[ 2019-05-27T21:59:46+08:00 ] 10.168.1.132 /agent_Index_index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000234s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000605s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000610s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000637s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 7 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 8 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 9 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 10 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 37 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 38 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 39 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 40 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 72 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 82 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 118 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 119 行.
+NOTIC: [8] Use of undefined constant df_api - assumed 'df_api' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 130 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 133 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 139 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 153 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 167 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008136s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008168s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000165s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000380s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000638s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000333s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000379s ]
+
+[ 2019-05-27T21:59:46+08:00 ] 10.168.1.132 /agent_Index_main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000605s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000664s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000693s ]
+NOTIC: [8] Undefined variable: category /www/wwwroot/9niu.wang/Application/User/Controller/IndexController.class.php 第 59 行.
+NOTIC: [2] implode(): Invalid arguments passed /www/wwwroot/9niu.wang/Application/User/Controller/IndexController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: dataone /www/wwwroot/9niu.wang/Application/User/Controller/IndexController.class.php 第 60 行.
+NOTIC: [2] implode(): Invalid arguments passed /www/wwwroot/9niu.wang/Application/User/Controller/IndexController.class.php 第 60 行.
+NOTIC: [8] Undefined variable: datatwo /www/wwwroot/9niu.wang/Application/User/Controller/IndexController.class.php 第 61 行.
+NOTIC: [2] implode(): Invalid arguments passed /www/wwwroot/9niu.wang/Application/User/Controller/IndexController.class.php 第 61 行.
+NOTIC: [8] Undefined variable: ipItem /www/wwwroot/9niu.wang/Application/User/Controller/IndexController.class.php 第 100 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/0a2302724c4cbc626c8639028f086c96.php 第 40 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/0a2302724c4cbc626c8639028f086c96.php 第 91 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005830s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005871s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000191s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000230s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000395s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000420s ]
+
+[ 2019-05-27T22:00:09+08:00 ] 10.168.1.132 /agent_Login_loginout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000606s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000660s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000690s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002998s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003033s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000108s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000178s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000257s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000279s ]
+
+[ 2019-05-27T22:00:54+08:00 ] 10.168.1.132 /User_Login_checklogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000447s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000860s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000593s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000622s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003760s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003804s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000717s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001067s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000515s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000547s ]
+
+[ 2019-05-27T22:00:56+08:00 ] 10.168.1.132 /user_Index_index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000034s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000588s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000555s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000583s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 7 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 8 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 9 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 10 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 37 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 38 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 39 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 40 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 72 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 82 行.
+NOTIC: [8] Use of undefined constant open_charge - assumed 'open_charge' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 82 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 118 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 119 行.
+NOTIC: [8] Use of undefined constant df_api - assumed 'df_api' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 130 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 133 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 139 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 153 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 167 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008353s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008385s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000138s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000229s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000357s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000383s ]
+
+[ 2019-05-27T22:00:56+08:00 ] 10.168.1.132 /user_Index_index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000708s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000610s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000651s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 7 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 8 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 9 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 10 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 37 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 38 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 39 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 40 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 72 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 82 行.
+NOTIC: [8] Use of undefined constant open_charge - assumed 'open_charge' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 82 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 118 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 119 行.
+NOTIC: [8] Use of undefined constant df_api - assumed 'df_api' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 130 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 133 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 139 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 153 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 167 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007970s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000123s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000218s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000436s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000466s ]
+
+[ 2019-05-27T22:00:56+08:00 ] 10.168.1.132 /agent_Index_main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000627s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000681s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000711s ]
+NOTIC: [8] Undefined variable: category /www/wwwroot/9niu.wang/Application/User/Controller/IndexController.class.php 第 59 行.
+NOTIC: [2] implode(): Invalid arguments passed /www/wwwroot/9niu.wang/Application/User/Controller/IndexController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: dataone /www/wwwroot/9niu.wang/Application/User/Controller/IndexController.class.php 第 60 行.
+NOTIC: [2] implode(): Invalid arguments passed /www/wwwroot/9niu.wang/Application/User/Controller/IndexController.class.php 第 60 行.
+NOTIC: [8] Undefined variable: datatwo /www/wwwroot/9niu.wang/Application/User/Controller/IndexController.class.php 第 61 行.
+NOTIC: [2] implode(): Invalid arguments passed /www/wwwroot/9niu.wang/Application/User/Controller/IndexController.class.php 第 61 行.
+NOTIC: [8] Undefined variable: ipItem /www/wwwroot/9niu.wang/Application/User/Controller/IndexController.class.php 第 100 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/0a2302724c4cbc626c8639028f086c96.php 第 40 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/9niu.wang/Runtime/Cache/User/0a2302724c4cbc626c8639028f086c96.php 第 91 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005803s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005832s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000130s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000222s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000396s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000318s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000350s ]
+
+[ 2019-05-27T22:01:06+08:00 ] 10.168.1.132 /agent_Account_changeRecord.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000598s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000668s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000713s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000067s ]
+NOTIC: [8] Use of undefined constant ymoney - assumed 'ymoney' /www/wwwroot/9niu.wang/Runtime/Cache/User/c1a3d30f96ea1fe32934762b403e9f2e.php 第 125 行.
+NOTIC: [8] Use of undefined constant gmoney - assumed 'gmoney' /www/wwwroot/9niu.wang/Runtime/Cache/User/c1a3d30f96ea1fe32934762b403e9f2e.php 第 125 行.
+NOTIC: [8] Use of undefined constant ymoney - assumed 'ymoney' /www/wwwroot/9niu.wang/Runtime/Cache/User/c1a3d30f96ea1fe32934762b403e9f2e.php 第 125 行.
+NOTIC: [8] Use of undefined constant gmoney - assumed 'gmoney' /www/wwwroot/9niu.wang/Runtime/Cache/User/c1a3d30f96ea1fe32934762b403e9f2e.php 第 125 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009187s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009221s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000160s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000169s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000365s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000274s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000298s ]
+
+[ 2019-05-27T22:01:09+08:00 ] 10.168.1.132 /agent_Account_complaintsDeposit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000243s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000562s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000665s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000694s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8] Undefined variable: tongdao /www/wwwroot/9niu.wang/Runtime/Cache/User/0242469b089735174aa31911184cc5b7.php 第 147 行.
+NOTIC: [8] Undefined variable: bank /www/wwwroot/9niu.wang/Runtime/Cache/User/0242469b089735174aa31911184cc5b7.php 第 147 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005570s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005602s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000114s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000161s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000262s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000284s ]
+
+[ 2019-05-27T22:01:10+08:00 ] 10.168.1.132 /agent_Account_channelFinance.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000305s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000641s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000800s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000836s ]
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/9niu.wang/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/9niu.wang/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/9niu.wang/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/9niu.wang/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/9niu.wang/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/9niu.wang/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/9niu.wang/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/9niu.wang/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/9niu.wang/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/9niu.wang/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/9niu.wang/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/9niu.wang/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/9niu.wang/Application/User/Controller/AccountController.class.php 第 860 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000022s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000051s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003898s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003923s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000107s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000254s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000270s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000295s ]
+
+[ 2019-05-27T22:01:16+08:00 ] 10.168.1.132 /agent_Order_index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000602s ]
+NOTIC: [2048] Declaration of User\Controller\OrderController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /www/wwwroot/9niu.wang/Application/User/Controller/OrderController.class.php 第 18 行.
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000649s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000676s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined index: status /www/wwwroot/9niu.wang/Runtime/Cache/User/9efe4e2e7d8b5d087d2c6ca784b0e3f7.php 第 95 行.
+NOTIC: [8] Undefined index: createtime /www/wwwroot/9niu.wang/Runtime/Cache/User/9efe4e2e7d8b5d087d2c6ca784b0e3f7.php 第 98 行.
+NOTIC: [8] Undefined index: successtime /www/wwwroot/9niu.wang/Runtime/Cache/User/9efe4e2e7d8b5d087d2c6ca784b0e3f7.php 第 98 行.
+NOTIC: [8] Undefined variable: memberid /www/wwwroot/9niu.wang/Runtime/Cache/User/9efe4e2e7d8b5d087d2c6ca784b0e3f7.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007088s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007116s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000114s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000216s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000373s ]
+
+[ 2019-05-27T22:01:19+08:00 ] 10.168.1.132 /agent_Withdrawal_clearing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000240s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000556s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000620s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000665s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Use of undefined constant t1zt - assumed 't1zt' /www/wwwroot/9niu.wang/Runtime/Cache/User/de2411f4124e1f9d67d82a8b67210965.php 第 33 行.
+NOTIC: [8] Use of undefined constant t1zt - assumed 't1zt' /www/wwwroot/9niu.wang/Runtime/Cache/User/de2411f4124e1f9d67d82a8b67210965.php 第 33 行.
+NOTIC: [8] Use of undefined constant tkzxmoney - assumed 'tkzxmoney' /www/wwwroot/9niu.wang/Runtime/Cache/User/de2411f4124e1f9d67d82a8b67210965.php 第 34 行.
+NOTIC: [8] Use of undefined constant tkzdmoney - assumed 'tkzdmoney' /www/wwwroot/9niu.wang/Runtime/Cache/User/de2411f4124e1f9d67d82a8b67210965.php 第 35 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /www/wwwroot/9niu.wang/Runtime/Cache/User/de2411f4124e1f9d67d82a8b67210965.php 第 39 行.
+NOTIC: [8] Use of undefined constant tktype - assumed 'tktype' /www/wwwroot/9niu.wang/Runtime/Cache/User/de2411f4124e1f9d67d82a8b67210965.php 第 41 行.
+NOTIC: [8] Use of undefined constant tktype - assumed 'tktype' /www/wwwroot/9niu.wang/Runtime/Cache/User/de2411f4124e1f9d67d82a8b67210965.php 第 42 行.
+NOTIC: [8] Use of undefined constant sxffixed - assumed 'sxffixed' /www/wwwroot/9niu.wang/Runtime/Cache/User/de2411f4124e1f9d67d82a8b67210965.php 第 43 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /www/wwwroot/9niu.wang/Runtime/Cache/User/de2411f4124e1f9d67d82a8b67210965.php 第 49 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005707s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005737s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000206s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000203s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000445s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000268s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000294s ]
+
+[ 2019-05-27T22:01:20+08:00 ] 10.168.1.132 /agent_Withdrawal_dfapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000578s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000666s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000696s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Use of undefined constant t1zt - assumed 't1zt' /www/wwwroot/9niu.wang/Runtime/Cache/User/f3c17be63daebf8c6385df5e9685e289.php 第 41 行.
+NOTIC: [8] Use of undefined constant t1zt - assumed 't1zt' /www/wwwroot/9niu.wang/Runtime/Cache/User/f3c17be63daebf8c6385df5e9685e289.php 第 41 行.
+NOTIC: [8] Use of undefined constant tkzxmoney - assumed 'tkzxmoney' /www/wwwroot/9niu.wang/Runtime/Cache/User/f3c17be63daebf8c6385df5e9685e289.php 第 42 行.
+NOTIC: [8] Use of undefined constant tkzdmoney - assumed 'tkzdmoney' /www/wwwroot/9niu.wang/Runtime/Cache/User/f3c17be63daebf8c6385df5e9685e289.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007417s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007451s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000105s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000190s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000251s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000276s ]
+
+[ 2019-05-27T22:01:43+08:00 ] 10.168.1.132 /agent_Login_loginout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000580s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000624s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000654s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000058s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002993s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003027s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000109s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000176s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000262s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000283s ]
+

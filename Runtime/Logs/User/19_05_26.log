@@ -1,0 +1,1604 @@
+[ 2019-05-26T18:08:42+08:00 ] 120.230.81.62 /agent_Channel_index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000784s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000743s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000779s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Use of undefined constant t1zt - assumed 't1zt' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/0afc5151d73d81b2039d13070791350e.php 第 33 行.
+NOTIC: [8] Use of undefined constant t1zt - assumed 't1zt' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/0afc5151d73d81b2039d13070791350e.php 第 33 行.
+NOTIC: [8] Use of undefined constant feilv - assumed 'feilv' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/0afc5151d73d81b2039d13070791350e.php 第 48 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007893s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007974s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000322s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000286s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000665s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000402s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000431s ]
+
+[ 2019-05-26T18:08:46+08:00 ] 120.230.81.62 /agent_Agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000308s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000693s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000733s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000769s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined index: memberid /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 45 行.
+NOTIC: [8] Undefined index: orderid /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 49 行.
+NOTIC: [8] Undefined index: body /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 53 行.
+NOTIC: [8] Undefined index: createtime /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 58 行.
+NOTIC: [8] Undefined index: successtime /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 62 行.
+NOTIC: [8] Undefined index: createtime /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 74 行.
+NOTIC: [8] Undefined index: successtime /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 74 行.
+NOTIC: [8] Undefined index: createtime /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 77 行.
+NOTIC: [8] Undefined index: successtime /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 77 行.
+NOTIC: [8] Undefined variable: rows /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 80 行.
+NOTIC: [8] Use of undefined constant ddlx - assumed 'ddlx' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 103 行.
+NOTIC: [8] Use of undefined constant out_trade_id - assumed 'out_trade_id' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 106 行.
+NOTIC: [8] Use of undefined constant out_trade_id - assumed 'out_trade_id' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 106 行.
+NOTIC: [8] Undefined index: del /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 107 行.
+NOTIC: [8] Use of undefined constant pay_successdate - assumed 'pay_successdate' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 114 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 120 行.
+NOTIC: [8] Use of undefined constant ddlx - assumed 'ddlx' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 103 行.
+NOTIC: [8] Use of undefined constant out_trade_id - assumed 'out_trade_id' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 106 行.
+NOTIC: [8] Use of undefined constant out_trade_id - assumed 'out_trade_id' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 106 行.
+NOTIC: [8] Undefined index: del /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 107 行.
+NOTIC: [8] Use of undefined constant pay_successdate - assumed 'pay_successdate' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 114 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 120 行.
+NOTIC: [8] Use of undefined constant rows - assumed 'rows' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 132 行.
+NOTIC: [8] Undefined index: rows /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 132 行.
+NOTIC: [8] Use of undefined constant rows - assumed 'rows' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 133 行.
+NOTIC: [8] Undefined index: rows /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 133 行.
+NOTIC: [8] Use of undefined constant rows - assumed 'rows' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 134 行.
+NOTIC: [8] Undefined index: rows /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 134 行.
+NOTIC: [8] Use of undefined constant rows - assumed 'rows' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 135 行.
+NOTIC: [8] Undefined index: rows /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 135 行.
+NOTIC: [8] Use of undefined constant rows - assumed 'rows' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 136 行.
+NOTIC: [8] Undefined index: rows /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 136 行.
+NOTIC: [8] Use of undefined constant rows - assumed 'rows' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 137 行.
+NOTIC: [8] Undefined index: rows /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 137 行.
+NOTIC: [8] Undefined index: memberid /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 187 行.
+NOTIC: [8] Use of undefined constant orderid - assumed 'orderid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 187 行.
+NOTIC: [8] Undefined index: orderid /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 187 行.
+NOTIC: [8] Use of undefined constant createtime - assumed 'createtime' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 187 行.
+NOTIC: [8] Undefined index: createtime /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 187 行.
+NOTIC: [8] Use of undefined constant successtime - assumed 'successtime' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 187 行.
+NOTIC: [8] Undefined index: successtime /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 187 行.
+NOTIC: [8] Use of undefined constant tongdao - assumed 'tongdao' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 187 行.
+NOTIC: [8] Undefined index: tongdao /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 187 行.
+NOTIC: [8] Use of undefined constant bank - assumed 'bank' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 187 行.
+NOTIC: [8] Undefined index: bank /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 187 行.
+NOTIC: [8] Use of undefined constant status - assumed 'status' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 187 行.
+NOTIC: [8] Undefined index: status /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 187 行.
+NOTIC: [8] Use of undefined constant ddlx - assumed 'ddlx' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 187 行.
+NOTIC: [8] Undefined index: ddlx /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/8c47b39827cad46a9fffcd6b834ceb6f.php 第 187 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007291s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007338s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000109s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000158s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000330s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000361s ]
+
+[ 2019-05-26T18:08:50+08:00 ] 120.230.81.62 /agent_Withdrawal_clearing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000617s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000679s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000715s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Use of undefined constant t1zt - assumed 't1zt' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/de2411f4124e1f9d67d82a8b67210965.php 第 33 行.
+NOTIC: [8] Use of undefined constant t1zt - assumed 't1zt' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/de2411f4124e1f9d67d82a8b67210965.php 第 33 行.
+NOTIC: [8] Use of undefined constant tkzxmoney - assumed 'tkzxmoney' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/de2411f4124e1f9d67d82a8b67210965.php 第 34 行.
+NOTIC: [8] Use of undefined constant tkzdmoney - assumed 'tkzdmoney' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/de2411f4124e1f9d67d82a8b67210965.php 第 35 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/de2411f4124e1f9d67d82a8b67210965.php 第 39 行.
+NOTIC: [8] Use of undefined constant tktype - assumed 'tktype' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/de2411f4124e1f9d67d82a8b67210965.php 第 41 行.
+NOTIC: [8] Use of undefined constant tktype - assumed 'tktype' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/de2411f4124e1f9d67d82a8b67210965.php 第 42 行.
+NOTIC: [8] Use of undefined constant sxffixed - assumed 'sxffixed' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/de2411f4124e1f9d67d82a8b67210965.php 第 43 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/de2411f4124e1f9d67d82a8b67210965.php 第 49 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006386s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006420s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000107s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000223s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000325s ]
+
+[ 2019-05-26T18:08:51+08:00 ] 120.230.81.62 /agent_Withdrawal_dfapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000728s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000722s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000764s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000122s ]
+NOTIC: [8] Use of undefined constant t1zt - assumed 't1zt' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/f3c17be63daebf8c6385df5e9685e289.php 第 41 行.
+NOTIC: [8] Use of undefined constant t1zt - assumed 't1zt' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/f3c17be63daebf8c6385df5e9685e289.php 第 41 行.
+NOTIC: [8] Use of undefined constant tkzxmoney - assumed 'tkzxmoney' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/f3c17be63daebf8c6385df5e9685e289.php 第 42 行.
+NOTIC: [8] Use of undefined constant tkzdmoney - assumed 'tkzdmoney' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/f3c17be63daebf8c6385df5e9685e289.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009376s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009414s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000110s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000218s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000312s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000347s ]
+
+[ 2019-05-26T18:08:52+08:00 ] 120.230.81.62 /agent_Withdrawal_index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000316s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000766s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.001201s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.001253s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008575s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008616s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000114s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000260s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000316s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000354s ]
+
+[ 2019-05-26T18:08:52+08:00 ] 120.230.81.62 /agent_Withdrawal_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000551s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001054s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.001261s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.001307s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009275s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009318s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000246s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000456s ]
+
+[ 2019-05-26T18:08:54+08:00 ] 120.230.81.62 /agent_Account_changeRecord.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000292s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000718s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000799s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000863s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/c1a3d30f96ea1fe32934762b403e9f2e.php 第 56 行.
+NOTIC: [8] Use of undefined constant ymoney - assumed 'ymoney' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/c1a3d30f96ea1fe32934762b403e9f2e.php 第 125 行.
+NOTIC: [8] Use of undefined constant gmoney - assumed 'gmoney' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/c1a3d30f96ea1fe32934762b403e9f2e.php 第 125 行.
+NOTIC: [8] Use of undefined constant transid - assumed 'transid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/c1a3d30f96ea1fe32934762b403e9f2e.php 第 135 行.
+NOTIC: [8] Array to string conversion /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/c1a3d30f96ea1fe32934762b403e9f2e.php 第 135 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010865s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010910s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000194s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000347s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000377s ]
+
+[ 2019-05-26T18:08:54+08:00 ] 120.230.81.62 /agent_Account_channelFinance.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000754s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000754s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000791s ]
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/www.zhifupay.com/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/www.zhifupay.com/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/www.zhifupay.com/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/www.zhifupay.com/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/www.zhifupay.com/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/www.zhifupay.com/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/www.zhifupay.com/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/www.zhifupay.com/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/www.zhifupay.com/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/www.zhifupay.com/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/www.zhifupay.com/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/www.zhifupay.com/Application/User/Controller/AccountController.class.php 第 860 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005246s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005286s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000134s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000247s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000420s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000306s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000338s ]
+
+[ 2019-05-26T18:08:55+08:00 ] 120.230.81.62 /agent_Account_complaintsDeposit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000722s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000697s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000735s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000074s ]
+NOTIC: [8] Undefined variable: tongdao /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/0242469b089735174aa31911184cc5b7.php 第 147 行.
+NOTIC: [8] Undefined variable: bank /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/0242469b089735174aa31911184cc5b7.php 第 147 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006378s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006414s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000104s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000183s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000331s ]
+
+[ 2019-05-26T18:08:55+08:00 ] 120.230.81.62 /agent_Account_frozenMoney.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000620s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000687s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000724s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+NOTIC: [8] Undefined variable: orderid /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/4a573130f3bb64a4865e89e79770099f.php 第 141 行.
+NOTIC: [8] Undefined variable: tongdao /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/4a573130f3bb64a4865e89e79770099f.php 第 141 行.
+NOTIC: [8] Undefined variable: bank /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/4a573130f3bb64a4865e89e79770099f.php 第 141 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008312s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008348s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000123s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000168s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000290s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000318s ]
+
+[ 2019-05-26T18:08:56+08:00 ] 120.230.81.62 /agent_Account_complaintsDeposit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000688s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000680s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000718s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+NOTIC: [8] Undefined variable: tongdao /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/0242469b089735174aa31911184cc5b7.php 第 147 行.
+NOTIC: [8] Undefined variable: bank /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/0242469b089735174aa31911184cc5b7.php 第 147 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006516s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006550s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000111s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000161s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000356s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000401s ]
+
+[ 2019-05-26T18:08:57+08:00 ] 120.230.81.62 /agent_Account_channelFinance.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000747s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000677s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000714s ]
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/www.zhifupay.com/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/www.zhifupay.com/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/www.zhifupay.com/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/www.zhifupay.com/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/www.zhifupay.com/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/www.zhifupay.com/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/www.zhifupay.com/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/www.zhifupay.com/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/www.zhifupay.com/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/www.zhifupay.com/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/www.zhifupay.com/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/www.zhifupay.com/Application/User/Controller/AccountController.class.php 第 860 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000062s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004364s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004395s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000109s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000230s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000360s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000391s ]
+
+[ 2019-05-26T18:09:08+08:00 ] 120.230.81.62 /agent_Account_profile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000672s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000682s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000719s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/ab070ebc0ea52ddabda22edffd505f45.php 第 95 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/ab070ebc0ea52ddabda22edffd505f45.php 第 97 行.
+NOTIC: [8] Use of undefined constant login_ip - assumed 'login_ip' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/ab070ebc0ea52ddabda22edffd505f45.php 第 112 行.
+NOTIC: [8] Use of undefined constant df_domain - assumed 'df_domain' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/ab070ebc0ea52ddabda22edffd505f45.php 第 134 行.
+NOTIC: [8] Use of undefined constant df_ip - assumed 'df_ip' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/ab070ebc0ea52ddabda22edffd505f45.php 第 141 行.
+NOTIC: [8] Undefined variable: sendUrl /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/ab070ebc0ea52ddabda22edffd505f45.php 第 162 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007139s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007175s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000110s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000258s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000312s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000340s ]
+
+[ 2019-05-26T18:09:09+08:00 ] 120.230.81.62 /agent_Account_bankcard.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000628s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000755s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000800s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000076s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005912s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005948s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000212s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000379s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000320s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000347s ]
+
+[ 2019-05-26T18:09:10+08:00 ] 120.230.81.62 /agent_Account_editPassword.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000700s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000685s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000736s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Undefined variable: sendUrl /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/66f337f6060630701be49435e4569214.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004418s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004451s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000231s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000398s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000300s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000329s ]
+
+[ 2019-05-26T18:09:10+08:00 ] 120.230.81.62 /agent_Account_loginrecord.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000639s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000662s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000699s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Use of undefined constant rows - assumed 'rows' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/b3078de6ed5c92edceb923d49e5cfc92.php 第 53 行.
+NOTIC: [8] Undefined index: rows /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/b3078de6ed5c92edceb923d49e5cfc92.php 第 53 行.
+NOTIC: [8] Use of undefined constant rows - assumed 'rows' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/b3078de6ed5c92edceb923d49e5cfc92.php 第 54 行.
+NOTIC: [8] Undefined index: rows /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/b3078de6ed5c92edceb923d49e5cfc92.php 第 54 行.
+NOTIC: [8] Use of undefined constant rows - assumed 'rows' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/b3078de6ed5c92edceb923d49e5cfc92.php 第 55 行.
+NOTIC: [8] Undefined index: rows /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/b3078de6ed5c92edceb923d49e5cfc92.php 第 55 行.
+NOTIC: [8] Use of undefined constant rows - assumed 'rows' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/b3078de6ed5c92edceb923d49e5cfc92.php 第 56 行.
+NOTIC: [8] Undefined index: rows /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/b3078de6ed5c92edceb923d49e5cfc92.php 第 56 行.
+NOTIC: [8] Use of undefined constant rows - assumed 'rows' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/b3078de6ed5c92edceb923d49e5cfc92.php 第 57 行.
+NOTIC: [8] Undefined index: rows /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/b3078de6ed5c92edceb923d49e5cfc92.php 第 57 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004959s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004994s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000118s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000208s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000363s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000335s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000369s ]
+
+[ 2019-05-26T18:09:11+08:00 ] 120.230.81.62 /agent_Index_index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000643s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000677s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000713s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 7 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 8 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 9 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 10 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 37 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 38 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 39 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 40 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 72 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 82 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 118 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 119 行.
+NOTIC: [8] Use of undefined constant df_api - assumed 'df_api' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 130 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 133 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 139 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 153 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 167 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008512s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008543s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000107s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000221s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000365s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000303s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000331s ]
+
+[ 2019-05-26T18:09:12+08:00 ] 120.230.81.62 /agent_Index_main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000653s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000733s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000769s ]
+NOTIC: [8] Undefined variable: category /www/wwwroot/www.zhifupay.com/Application/User/Controller/IndexController.class.php 第 59 行.
+NOTIC: [2] implode(): Invalid arguments passed /www/wwwroot/www.zhifupay.com/Application/User/Controller/IndexController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: dataone /www/wwwroot/www.zhifupay.com/Application/User/Controller/IndexController.class.php 第 60 行.
+NOTIC: [2] implode(): Invalid arguments passed /www/wwwroot/www.zhifupay.com/Application/User/Controller/IndexController.class.php 第 60 行.
+NOTIC: [8] Undefined variable: datatwo /www/wwwroot/www.zhifupay.com/Application/User/Controller/IndexController.class.php 第 61 行.
+NOTIC: [2] implode(): Invalid arguments passed /www/wwwroot/www.zhifupay.com/Application/User/Controller/IndexController.class.php 第 61 行.
+NOTIC: [8] Undefined variable: ipItem /www/wwwroot/www.zhifupay.com/Application/User/Controller/IndexController.class.php 第 100 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000071s ]
+NOTIC: [2] Illegal string offset 'loginip' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/0a2302724c4cbc626c8639028f086c96.php 第 31 行.
+NOTIC: [8] Uninitialized string offset: 0 /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/0a2302724c4cbc626c8639028f086c96.php 第 31 行.
+NOTIC: [2] Illegal string offset 'loginaddress' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/0a2302724c4cbc626c8639028f086c96.php 第 31 行.
+NOTIC: [8] Uninitialized string offset: 0 /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/0a2302724c4cbc626c8639028f086c96.php 第 31 行.
+NOTIC: [2] Illegal string offset 'logindatetime' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/0a2302724c4cbc626c8639028f086c96.php 第 31 行.
+NOTIC: [8] Uninitialized string offset: 0 /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/0a2302724c4cbc626c8639028f086c96.php 第 31 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/0a2302724c4cbc626c8639028f086c96.php 第 40 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/0a2302724c4cbc626c8639028f086c96.php 第 91 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006332s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006361s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000108s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000204s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000330s ]
+
+[ 2019-05-26T18:10:29+08:00 ] 120.230.81.62 /User_Login_checklogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000668s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000681s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000718s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004236s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004276s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000122s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000214s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000383s ]
+
+[ 2019-05-26T18:12:36+08:00 ] 120.230.81.62 /agent_Channel_index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000640s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000666s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000702s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000074s ]
+NOTIC: [8] Use of undefined constant t1zt - assumed 't1zt' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/0afc5151d73d81b2039d13070791350e.php 第 33 行.
+NOTIC: [8] Use of undefined constant t1zt - assumed 't1zt' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/0afc5151d73d81b2039d13070791350e.php 第 33 行.
+NOTIC: [8] Use of undefined constant feilv - assumed 'feilv' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/0afc5151d73d81b2039d13070791350e.php 第 48 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004973s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000106s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000226s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000371s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000330s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000359s ]
+
+[ 2019-05-26T18:23:25+08:00 ] 120.230.81.62 /User_Login_checklogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000650s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000668s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000704s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000089s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003985s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004040s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000144s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000240s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000439s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000409s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000439s ]
+
+[ 2019-05-26T18:23:27+08:00 ] 120.230.81.62 /user_Index_index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000306s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000662s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000681s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000717s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 7 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 8 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 9 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 10 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 37 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 38 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 39 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 40 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 72 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 82 行.
+NOTIC: [8] Use of undefined constant open_charge - assumed 'open_charge' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 82 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 118 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 119 行.
+NOTIC: [8] Use of undefined constant df_api - assumed 'df_api' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 130 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 133 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 139 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 153 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/d7a7632f153cf12d0db44c934c28bcfe.php 第 167 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009220s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009262s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000120s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000227s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000353s ]
+
+[ 2019-05-26T18:23:28+08:00 ] 120.230.81.62 /agent_Index_main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000691s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000666s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000705s ]
+NOTIC: [8] Undefined variable: category /www/wwwroot/www.zhifupay.com/Application/User/Controller/IndexController.class.php 第 59 行.
+NOTIC: [2] implode(): Invalid arguments passed /www/wwwroot/www.zhifupay.com/Application/User/Controller/IndexController.class.php 第 59 行.
+NOTIC: [8] Undefined variable: dataone /www/wwwroot/www.zhifupay.com/Application/User/Controller/IndexController.class.php 第 60 行.
+NOTIC: [2] implode(): Invalid arguments passed /www/wwwroot/www.zhifupay.com/Application/User/Controller/IndexController.class.php 第 60 行.
+NOTIC: [8] Undefined variable: datatwo /www/wwwroot/www.zhifupay.com/Application/User/Controller/IndexController.class.php 第 61 行.
+NOTIC: [2] implode(): Invalid arguments passed /www/wwwroot/www.zhifupay.com/Application/User/Controller/IndexController.class.php 第 61 行.
+NOTIC: [8] Undefined variable: ipItem /www/wwwroot/www.zhifupay.com/Application/User/Controller/IndexController.class.php 第 100 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000081s ]
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/0a2302724c4cbc626c8639028f086c96.php 第 40 行.
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/0a2302724c4cbc626c8639028f086c96.php 第 91 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006787s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006816s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000110s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000220s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000375s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000310s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000337s ]
+
+[ 2019-05-26T18:23:39+08:00 ] 120.230.81.62 /agent_Index_gonggao.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000302s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000667s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000726s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000762s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined index: datetime /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/ca308cea377eca2497196234c8205e3a.php 第 26 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007657s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007694s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000135s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000201s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000375s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000313s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000340s ]
+
+[ 2019-05-26T18:23:40+08:00 ] 120.230.81.62 /agent_Account_profile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000786s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000708s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000746s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000088s ]
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/ab070ebc0ea52ddabda22edffd505f45.php 第 95 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/ab070ebc0ea52ddabda22edffd505f45.php 第 97 行.
+NOTIC: [8] Use of undefined constant login_ip - assumed 'login_ip' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/ab070ebc0ea52ddabda22edffd505f45.php 第 112 行.
+NOTIC: [8] Use of undefined constant df_domain - assumed 'df_domain' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/ab070ebc0ea52ddabda22edffd505f45.php 第 134 行.
+NOTIC: [8] Use of undefined constant df_ip - assumed 'df_ip' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/ab070ebc0ea52ddabda22edffd505f45.php 第 141 行.
+NOTIC: [8] Undefined variable: sendUrl /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/ab070ebc0ea52ddabda22edffd505f45.php 第 162 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006957s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006991s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000122s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000222s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000294s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000323s ]
+
+[ 2019-05-26T18:23:57+08:00 ] 120.230.81.62 /agent_Account_bankcard.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000306s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000738s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000688s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000727s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000084s ]
+NOTIC: [8] Use of undefined constant isdefault - assumed 'isdefault' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/c3f6e73890233a2802e63f96083c9f34.php 第 59 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/c3f6e73890233a2802e63f96083c9f34.php 第 68 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/c3f6e73890233a2802e63f96083c9f34.php 第 71 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006248s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006286s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000111s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000232s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000380s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000413s ]
+
+[ 2019-05-26T18:24:04+08:00 ] 120.230.81.62 /agent_Account_addBankcard_id_3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000643s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000704s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000748s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined variable: sendUrl /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/edf5eba2811ac7158ed7e8b5d15009b5.php 第 100 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005805s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005842s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000119s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000269s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000429s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000315s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000344s ]
+
+[ 2019-05-26T18:24:16+08:00 ] 120.230.81.62 /agent_Account_editBankStatus.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000738s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000744s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000779s ]
+
+[ 2019-05-26T18:24:16+08:00 ] 120.230.81.62 /agent_Account_bankcard.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000764s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000729s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000771s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+NOTIC: [8] Use of undefined constant isdefault - assumed 'isdefault' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/c3f6e73890233a2802e63f96083c9f34.php 第 59 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/c3f6e73890233a2802e63f96083c9f34.php 第 68 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/c3f6e73890233a2802e63f96083c9f34.php 第 71 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006205s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006247s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000118s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000222s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000379s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000328s ]
+
+[ 2019-05-26T18:24:18+08:00 ] 120.230.81.62 /agent_Account_addBankcard.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000302s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000665s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000670s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000706s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+NOTIC: [8] Undefined index: id /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/edf5eba2811ac7158ed7e8b5d15009b5.php 第 28 行.
+NOTIC: [8] Undefined variable: b /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/edf5eba2811ac7158ed7e8b5d15009b5.php 第 34 行.
+NOTIC: [8] Undefined variable: b /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/edf5eba2811ac7158ed7e8b5d15009b5.php 第 34 行.
+NOTIC: [8] Undefined variable: b /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/edf5eba2811ac7158ed7e8b5d15009b5.php 第 34 行.
+NOTIC: [8] Undefined variable: b /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/edf5eba2811ac7158ed7e8b5d15009b5.php 第 34 行.
+NOTIC: [8] Undefined variable: b /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/edf5eba2811ac7158ed7e8b5d15009b5.php 第 34 行.
+NOTIC: [8] Undefined variable: b /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/edf5eba2811ac7158ed7e8b5d15009b5.php 第 34 行.
+NOTIC: [8] Undefined variable: b /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/edf5eba2811ac7158ed7e8b5d15009b5.php 第 34 行.
+NOTIC: [8] Undefined variable: b /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/edf5eba2811ac7158ed7e8b5d15009b5.php 第 34 行.
+NOTIC: [8] Undefined variable: b /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/edf5eba2811ac7158ed7e8b5d15009b5.php 第 34 行.
+NOTIC: [8] Undefined variable: b /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/edf5eba2811ac7158ed7e8b5d15009b5.php 第 34 行.
+NOTIC: [8] Undefined variable: b /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/edf5eba2811ac7158ed7e8b5d15009b5.php 第 34 行.
+NOTIC: [8] Undefined variable: b /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/edf5eba2811ac7158ed7e8b5d15009b5.php 第 34 行.
+NOTIC: [8] Undefined variable: b /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/edf5eba2811ac7158ed7e8b5d15009b5.php 第 34 行.
+NOTIC: [8] Undefined variable: b /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/edf5eba2811ac7158ed7e8b5d15009b5.php 第 34 行.
+NOTIC: [8] Undefined variable: b /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/edf5eba2811ac7158ed7e8b5d15009b5.php 第 34 行.
+NOTIC: [8] Undefined variable: b /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/edf5eba2811ac7158ed7e8b5d15009b5.php 第 34 行.
+NOTIC: [8] Undefined variable: b /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/edf5eba2811ac7158ed7e8b5d15009b5.php 第 34 行.
+NOTIC: [8] Undefined variable: b /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/edf5eba2811ac7158ed7e8b5d15009b5.php 第 34 行.
+NOTIC: [8] Undefined variable: b /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/edf5eba2811ac7158ed7e8b5d15009b5.php 第 34 行.
+NOTIC: [8] Undefined variable: b /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/edf5eba2811ac7158ed7e8b5d15009b5.php 第 34 行.
+NOTIC: [8] Undefined variable: b /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/edf5eba2811ac7158ed7e8b5d15009b5.php 第 34 行.
+NOTIC: [8] Undefined variable: b /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/edf5eba2811ac7158ed7e8b5d15009b5.php 第 34 行.
+NOTIC: [8] Undefined variable: b /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/edf5eba2811ac7158ed7e8b5d15009b5.php 第 34 行.
+NOTIC: [8] Undefined variable: b /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/edf5eba2811ac7158ed7e8b5d15009b5.php 第 34 行.
+NOTIC: [8] Undefined variable: b /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/edf5eba2811ac7158ed7e8b5d15009b5.php 第 43 行.
+NOTIC: [8] Undefined variable: b /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/edf5eba2811ac7158ed7e8b5d15009b5.php 第 50 行.
+NOTIC: [8] Undefined variable: b /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/edf5eba2811ac7158ed7e8b5d15009b5.php 第 57 行.
+NOTIC: [8] Undefined variable: b /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/edf5eba2811ac7158ed7e8b5d15009b5.php 第 65 行.
+NOTIC: [8] Undefined variable: b /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/edf5eba2811ac7158ed7e8b5d15009b5.php 第 72 行.
+NOTIC: [8] Undefined variable: b /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/edf5eba2811ac7158ed7e8b5d15009b5.php 第 80 行.
+NOTIC: [8] Undefined variable: sendUrl /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/edf5eba2811ac7158ed7e8b5d15009b5.php 第 100 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005335s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005369s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000105s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000238s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000381s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000301s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000329s ]
+
+[ 2019-05-26T18:24:22+08:00 ] 120.230.81.62 /agent_Account_authorized.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000724s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000682s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000719s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000070s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004343s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004378s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000105s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000220s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000373s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000330s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000361s ]
+
+[ 2019-05-26T18:24:24+08:00 ] 120.230.81.62 /agent_Account_editPassword.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000684s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000758s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000800s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000067s ]
+NOTIC: [8] Undefined variable: sendUrl /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/66f337f6060630701be49435e4569214.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004846s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004883s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000137s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000201s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000381s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000343s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000392s ]
+
+[ 2019-05-26T18:24:25+08:00 ] 120.230.81.62 /agent_Account_editPaypassword.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000820s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000741s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000785s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+NOTIC: [8] Undefined variable: sendUrl /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/1b73f30b4eaee6463e0e959f055b2379.php 第 73 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004839s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004879s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000115s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000232s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000349s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000384s ]
+
+[ 2019-05-26T18:24:26+08:00 ] 120.230.81.62 /agent_Account_loginrecord.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000292s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000634s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000669s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000704s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000062s ]
+NOTIC: [8] Use of undefined constant rows - assumed 'rows' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/b3078de6ed5c92edceb923d49e5cfc92.php 第 53 行.
+NOTIC: [8] Undefined index: rows /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/b3078de6ed5c92edceb923d49e5cfc92.php 第 53 行.
+NOTIC: [8] Use of undefined constant rows - assumed 'rows' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/b3078de6ed5c92edceb923d49e5cfc92.php 第 54 行.
+NOTIC: [8] Undefined index: rows /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/b3078de6ed5c92edceb923d49e5cfc92.php 第 54 行.
+NOTIC: [8] Use of undefined constant rows - assumed 'rows' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/b3078de6ed5c92edceb923d49e5cfc92.php 第 55 行.
+NOTIC: [8] Undefined index: rows /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/b3078de6ed5c92edceb923d49e5cfc92.php 第 55 行.
+NOTIC: [8] Use of undefined constant rows - assumed 'rows' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/b3078de6ed5c92edceb923d49e5cfc92.php 第 56 行.
+NOTIC: [8] Undefined index: rows /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/b3078de6ed5c92edceb923d49e5cfc92.php 第 56 行.
+NOTIC: [8] Use of undefined constant rows - assumed 'rows' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/b3078de6ed5c92edceb923d49e5cfc92.php 第 57 行.
+NOTIC: [8] Undefined index: rows /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/b3078de6ed5c92edceb923d49e5cfc92.php 第 57 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004678s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004705s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000100s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000216s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000303s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000328s ]
+
+[ 2019-05-26T18:24:30+08:00 ] 120.230.81.62 /agent_Account_editPaypassword.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000627s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000752s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000788s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Undefined variable: sendUrl /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/1b73f30b4eaee6463e0e959f055b2379.php 第 73 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004417s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004454s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000107s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000257s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000404s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000314s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000341s ]
+
+[ 2019-05-26T18:25:22+08:00 ] 120.230.81.62 /agent_Account_loginrecord.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000704s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000768s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000809s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000064s ]
+NOTIC: [8] Use of undefined constant rows - assumed 'rows' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/b3078de6ed5c92edceb923d49e5cfc92.php 第 53 行.
+NOTIC: [8] Undefined index: rows /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/b3078de6ed5c92edceb923d49e5cfc92.php 第 53 行.
+NOTIC: [8] Use of undefined constant rows - assumed 'rows' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/b3078de6ed5c92edceb923d49e5cfc92.php 第 54 行.
+NOTIC: [8] Undefined index: rows /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/b3078de6ed5c92edceb923d49e5cfc92.php 第 54 行.
+NOTIC: [8] Use of undefined constant rows - assumed 'rows' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/b3078de6ed5c92edceb923d49e5cfc92.php 第 55 行.
+NOTIC: [8] Undefined index: rows /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/b3078de6ed5c92edceb923d49e5cfc92.php 第 55 行.
+NOTIC: [8] Use of undefined constant rows - assumed 'rows' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/b3078de6ed5c92edceb923d49e5cfc92.php 第 56 行.
+NOTIC: [8] Undefined index: rows /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/b3078de6ed5c92edceb923d49e5cfc92.php 第 56 行.
+NOTIC: [8] Use of undefined constant rows - assumed 'rows' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/b3078de6ed5c92edceb923d49e5cfc92.php 第 57 行.
+NOTIC: [8] Undefined index: rows /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/b3078de6ed5c92edceb923d49e5cfc92.php 第 57 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004750s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004778s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000103s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000231s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000383s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000411s ]
+
+[ 2019-05-26T18:25:25+08:00 ] 120.230.81.62 /agent_Account_changeRecord.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000695s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000710s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000749s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+NOTIC: [8] Use of undefined constant ymoney - assumed 'ymoney' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/c1a3d30f96ea1fe32934762b403e9f2e.php 第 125 行.
+NOTIC: [8] Use of undefined constant gmoney - assumed 'gmoney' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/c1a3d30f96ea1fe32934762b403e9f2e.php 第 125 行.
+NOTIC: [8] Use of undefined constant ymoney - assumed 'ymoney' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/c1a3d30f96ea1fe32934762b403e9f2e.php 第 125 行.
+NOTIC: [8] Use of undefined constant gmoney - assumed 'gmoney' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/c1a3d30f96ea1fe32934762b403e9f2e.php 第 125 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010497s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010534s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000133s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000206s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000335s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000371s ]
+
+[ 2019-05-26T18:25:27+08:00 ] 120.230.81.62 /agent_Account_channelFinance.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000647s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000695s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000734s ]
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/www.zhifupay.com/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/www.zhifupay.com/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/www.zhifupay.com/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/www.zhifupay.com/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/www.zhifupay.com/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/www.zhifupay.com/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/www.zhifupay.com/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/www.zhifupay.com/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/www.zhifupay.com/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/www.zhifupay.com/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/www.zhifupay.com/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/www.zhifupay.com/Application/User/Controller/AccountController.class.php 第 860 行.
+NOTIC: [2] bcdiv(): Division by zero /www/wwwroot/www.zhifupay.com/Application/User/Controller/AccountController.class.php 第 860 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000064s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004685s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004716s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000113s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000285s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000358s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000391s ]
+
+[ 2019-05-26T18:25:32+08:00 ] 120.230.81.62 /agent_Channel_index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000410s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000814s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000687s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000738s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Use of undefined constant t1zt - assumed 't1zt' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/0afc5151d73d81b2039d13070791350e.php 第 33 行.
+NOTIC: [8] Use of undefined constant t1zt - assumed 't1zt' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/0afc5151d73d81b2039d13070791350e.php 第 33 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004818s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004861s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000108s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000247s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000321s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000349s ]
+
+[ 2019-05-26T18:25:36+08:00 ] 120.230.81.62 /agent_Channel_apidocumnet.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000727s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000761s ]
+NOTIC: [8] Use of undefined constant groupid - assumed 'groupid' /www/wwwroot/www.zhifupay.com/Application/User/Controller/ChannelController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000062s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004037s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004078s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000150s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000238s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000446s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000348s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000376s ]
+
+[ 2019-05-26T18:25:47+08:00 ] 120.230.81.62 /agent_Order_index_status_0.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000680s ]
+NOTIC: [2048] Declaration of User\Controller\OrderController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /www/wwwroot/www.zhifupay.com/Application/User/Controller/OrderController.class.php 第 18 行.
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000672s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000702s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+NOTIC: [8] Undefined index: createtime /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/9efe4e2e7d8b5d087d2c6ca784b0e3f7.php 第 98 行.
+NOTIC: [8] Undefined index: successtime /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/9efe4e2e7d8b5d087d2c6ca784b0e3f7.php 第 98 行.
+NOTIC: [8] Undefined variable: memberid /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/9efe4e2e7d8b5d087d2c6ca784b0e3f7.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.051410s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051443s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000130s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000170s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000328s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000361s ]
+
+[ 2019-05-26T18:25:49+08:00 ] 120.230.81.62 /agent_Withdrawal_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000749s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000651s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000687s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008139s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008184s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000104s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000201s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000304s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000332s ]
+
+[ 2019-05-26T18:25:52+08:00 ] 120.230.81.62 /agent_Withdrawal_payment.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000818s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000884s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000924s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008188s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008236s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000149s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000318s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000528s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000314s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000345s ]
+
+[ 2019-05-26T18:25:52+08:00 ] 120.230.81.62 /agent_Withdrawal_index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000301s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000652s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000670s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000725s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000081s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007945s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007988s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000142s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000235s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000422s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000355s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000395s ]
+
+[ 2019-05-26T18:25:54+08:00 ] 120.230.81.62 /agent_Withdrawal_dfapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000655s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000695s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000730s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+NOTIC: [8] Use of undefined constant t1zt - assumed 't1zt' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/f3c17be63daebf8c6385df5e9685e289.php 第 41 行.
+NOTIC: [8] Use of undefined constant t1zt - assumed 't1zt' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/f3c17be63daebf8c6385df5e9685e289.php 第 41 行.
+NOTIC: [8] Use of undefined constant tkzxmoney - assumed 'tkzxmoney' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/f3c17be63daebf8c6385df5e9685e289.php 第 42 行.
+NOTIC: [8] Use of undefined constant tkzdmoney - assumed 'tkzdmoney' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/f3c17be63daebf8c6385df5e9685e289.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008069s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008098s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000108s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000204s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000350s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000299s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000328s ]
+
+[ 2019-05-26T18:25:55+08:00 ] 120.230.81.62 /agent_Withdrawal_clearing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000648s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000661s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000696s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+NOTIC: [8] Use of undefined constant t1zt - assumed 't1zt' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/de2411f4124e1f9d67d82a8b67210965.php 第 33 行.
+NOTIC: [8] Use of undefined constant t1zt - assumed 't1zt' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/de2411f4124e1f9d67d82a8b67210965.php 第 33 行.
+NOTIC: [8] Use of undefined constant tkzxmoney - assumed 'tkzxmoney' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/de2411f4124e1f9d67d82a8b67210965.php 第 34 行.
+NOTIC: [8] Use of undefined constant tkzdmoney - assumed 'tkzdmoney' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/de2411f4124e1f9d67d82a8b67210965.php 第 35 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/de2411f4124e1f9d67d82a8b67210965.php 第 39 行.
+NOTIC: [8] Use of undefined constant tktype - assumed 'tktype' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/de2411f4124e1f9d67d82a8b67210965.php 第 41 行.
+NOTIC: [8] Use of undefined constant tktype - assumed 'tktype' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/de2411f4124e1f9d67d82a8b67210965.php 第 42 行.
+NOTIC: [8] Use of undefined constant sxffixed - assumed 'sxffixed' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/de2411f4124e1f9d67d82a8b67210965.php 第 43 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /www/wwwroot/www.zhifupay.com/Runtime/Cache/User/de2411f4124e1f9d67d82a8b67210965.php 第 49 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007206s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007240s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000108s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000216s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000364s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000309s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000337s ]
+
+[ 2019-05-26T18:26:12+08:00 ] 120.230.81.62 /agent_Withdrawal_index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000314s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000696s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.001004s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.001069s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007223s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007261s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000118s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000229s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000393s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000305s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000335s ]
+
+[ 2019-05-26T18:26:13+08:00 ] 120.230.81.62 /agent_Withdrawal_payment.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000632s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000670s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000716s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007470s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007507s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000110s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000206s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000329s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000369s ]
+
+[ 2019-05-26T18:26:14+08:00 ] 120.230.81.62 /agent_Withdrawal_index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000657s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000739s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000776s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000088s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007318s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007354s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000229s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000295s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000338s ]
+
+[ 2019-05-26T18:26:15+08:00 ] 120.230.81.62 /agent_Withdrawal_payment.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000708s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000697s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000736s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007511s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007549s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000213s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000303s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000363s ]
+
+[ 2019-05-26T18:26:16+08:00 ] 120.230.81.62 /agent_Withdrawal_check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000307s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000655s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000665s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000702s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010247s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010293s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000109s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000222s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000311s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000340s ]
+
+[ 2019-05-26T19:43:30+08:00 ] 119.39.168.47 /Agent_Login_checkRegister.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000731s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000748s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000784s ]
+NOTIC: [8] Undefined variable: verifycode /www/wwwroot/www.zhifupay.com/Application/User/Controller/LoginController.class.php 第 254 行.
+
+[ 2019-05-26T19:43:30+08:00 ] 119.39.168.47 /Agent_Login_checkRegister.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000676s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000876s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000928s ]
+
+[ 2019-05-26T19:43:49+08:00 ] 119.39.168.47 /Agent_Login_checkRegister.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000292s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000644s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000705s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000840s ]
+
+[ 2019-05-26T19:44:00+08:00 ] 119.39.168.47 /User_Login_checklogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000292s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000688s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000727s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000764s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000135s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004468s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004526s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000221s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000399s ]
+

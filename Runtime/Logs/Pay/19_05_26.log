@@ -1,0 +1,66 @@
+[ 2019-05-26T16:16:24+08:00 ] 222.244.119.56 /Pay_Index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001035s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000752s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000791s ]
+
+[ 2019-05-26T16:16:51+08:00 ] 222.244.119.56 /Pay_Index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000638s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000701s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000738s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000068s ]
+INFO: [ action_begin ] --END-- [ RunTime:-0.016226s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000514s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000568s ]
+
+[ 2019-05-26T18:08:55+08:00 ] 112.47.219.65 /Pay_Index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000312s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000679s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000696s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000735s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000069s ]
+INFO: [ action_begin ] --END-- [ RunTime:-0.027988s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000362s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000409s ]
+
+[ 2019-05-26T18:11:20+08:00 ] 120.230.81.62 /Pay_Index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000308s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000713s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000890s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000938s ]
+INFO: [ action_begin ] --START--
+INFO: Run Behavior\CheckAuthBehavior [ RunTime:0.000056s ]
+INFO: [ action_begin ] --END-- [ RunTime:-0.015829s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000414s ]
+
